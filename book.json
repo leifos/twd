@@ -1,0 +1,24 @@
+{
+    "plugins": [ "exercises", "quizzes","autocover", ],
+	"pluginsConfig": {
+	        "autocover": {
+			    "title": "How to Tango with Django",
+			       "author": "Leif Azzopardi and David Maxwell",
+			       "font": {
+			           "size": null,
+			           "family": "Impact",
+			           "color": "#FFF"
+			       },
+			       "size": {
+			           "w": 1800,
+			           "h": 2360
+			       },
+			       "background": {
+			           "color": "#09F"
+			       }
+	        }
+	    }
+	"language": "en",
+	"title": "How to Tango with Django",
+	
+}
