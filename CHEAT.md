@@ -1,7 +1,7 @@
 
 # Tango With Django - Cheat Sheet
 
-A quick guide to common Django Commands, Functions and Methods taken from the book [How to Tango with Django 1.7](http://www.tangowithdjango.com/)
+A quick and simple guide to common Django Commands, Functions and Methods taken from the book [How to Tango with Django 1.7](http://www.tangowithdjango.com/)
 
 ## Start the Project/Application
 
