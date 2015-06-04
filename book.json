@@ -20,5 +20,6 @@
 	    }
 	"language": "en",
 	"title": "How to Tango with Django",
+	"version": "1.0.1",
 	
 }
